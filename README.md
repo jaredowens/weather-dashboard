@@ -7,7 +7,7 @@ This project was built to be able to look up any city and get the weather foreca
 ## Installation
 
 You will need VS Code and Git Bash. Along with those you will need some dependencies including Typescript and Vite along with a few others. You can navigate to the furthest out package.json and open it in your terminal. Run an "npm install" and after all dependencies are installed you can run "npm run start:dev" to start the application. 
-[Website Url](https://nicksweather.onrender.com)
+
 
 ## Usage
 
